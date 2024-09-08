@@ -1,0 +1,13 @@
+EI: DME_ID
+EN: DME_Name
+DI: Drug_ID
+DN: Drug_Name
+RN: Reference_Name
+RU: Reference_URL
+
+DE4LYSA	EI	DE4LYSA
+DE4LYSA	EN	Cytochrome P450 3A4 (CYP3A4)
+DE4LYSA	DI	DMIKQH5
+DE4LYSA	DN	Hydroxyprogesterone caproate
+DE4LYSA	RN	Prevention of preterm delivery with 17-hydroxyprogesterone caproate: pharmacologic considerations. Semin Perinatol. 2014 Dec;38(8):516-22.
+DE4LYSA	RU	https://www.ncbi.nlm.nih.gov/pubmed/?term=25256193
